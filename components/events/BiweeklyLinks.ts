@@ -33,6 +33,7 @@ const biweeklyLinkInfo: { [key: number]: BiweeklyLinkInfo } = {
   [27]: { slides: "cdBJQLY01QZU", bvid: "BV1JaBHBsEJ9" },
   [28]: { slides: "cvOZnsjUeuxC", bvid: "BV195iiBjEPZ" },
   [29]: { slides: "ct8dbp5iVzs9" },
+  [30]: { slides: "cvq9DSawFxLS" },
 }
 
 export function getBiweeklySlideLink(index: number): string | null {
